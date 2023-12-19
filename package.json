@@ -1,0 +1,11 @@
+{
+  "name": "training_app",
+  "version": "1.0.0",
+  "description": "Training demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test\""
+  },
+  "author": "dongtv2",
+  "license": "ISC"
+}
