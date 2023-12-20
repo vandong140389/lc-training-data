@@ -3,6 +3,92 @@
     "id": "1",
     "phone": "0906123456"
   },
+  "reward": {
+    "reward_point": "2500",
+    "reward_vouchers": [
+      {
+        "id": 1,
+        "title": "FRIENDSELL - PMH 15,000Đ",
+        "amount": "1500"
+      },
+      {
+        "id": 2,
+        "title": "FRIENDSELL - PMH 30,000Đ",
+        "amount": "3000"
+      },
+      {
+        "id": 3,
+        "title": "FRIENDSELL - PMH 45,000Đ",
+        "amount": "4500"
+      }
+    ],
+    "reward_products": [
+      {
+        "id": 1,
+        "name": "Viên uống Đông Trùng Hạ Thảo Pure Cordyceps Pharmekal tăng sức đề kháng (60 viên)",
+        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00345341_dong_trung_ha_thao_pure_cordyceps_8634_5c34_large_81ed7c754c.jpg",
+        "originalPrice": "550.000đ",
+        "rewardPoint": "1.200",
+        "unit": 1
+      },
+      {
+        "id": 2,
+        "name": "Siro Brauer Baby & Child Immune Defence Probiotic Liquid bổ sung lợi khuẩn cho bé (45ml)",
+        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/DSC_08363_4cc0bfe6e0.jpg",
+        "originalPrice": "550.000đ",
+        "rewardPoint": "1.200",
+        "unit": 1
+      },
+      {
+        "id": 3,
+        "name": "Viên uống Okinawa Fucoidan +++ Jpanwell hỗ trợ tăng cường sức để kháng và trung hòa các gốc tự do (30 viên)",
+        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00032884_okinawa_fucoidan_jpanwell_3x10_1585_62af_large_9aadf89229.jpg",
+        "originalPrice": "995.000đ",
+        "rewardPoint": "2.00",
+        "unit": 1
+      },
+      {
+        "id": 4,
+        "name": "Siro Kan Imunoglukan P4H Pleuran hỗ trợ tăng cường đề kháng ở trẻ em (120ml)",
+        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00030974_syrup_kan_120ml_6029_62ae_large_23ee7b1482.JPG",
+        "originalPrice": "325.000đ",
+        "rewardPoint": "900",
+        "unit": 1
+      },
+      {
+        "id": 5,
+        "name": "Viên sủi Redoxon Triple Action Bayer bổ sung vitamin C, D và kẽm (10 viên)",
+        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00032809_thuc_pham_bao_ve_suc_khoe_redoxon_triple_action_tuyp_10_vien_7149_6198_large_f7bf184919.jpg",
+        "originalPrice": "50.000đ",
+        "rewardPoint": "200",
+        "unit": 1
+      },
+      {
+        "id": 6,
+        "name": "Nhụy hoa nghệ tây Sasagold Saffron hỗ trợ làm đẹp và phù hợp cho người bệnh (1g)",
+        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00030869_sasagold_saffron_nhuy_hoa_nghe_tay_1g_9476_60a7_large_f7b33c4eec.JPG",
+        "originalPrice": "438.000đ",
+        "rewardPoint": "1.100",
+        "unit": 1
+      },
+      {
+        "id": 7,
+        "name": "Siro Brauer Baby & Kids Liquid Multivitamin For Infants hỗ trợ bổ sung một số vitamin (45ml)",
+        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00502560_brauer_baby_kids_liquid_multivitamin_for_infants_45ml_6406_635f_large_f537d8a225.jpg",
+        "originalPrice": "378.000đ",
+        "rewardPoint": "900",
+        "unit": 1
+      },
+      {
+        "id": 8,
+        "name": "Dung dịch xịt Propolis Tutti Frutti & Honey Tracybee giảm đau họng, viêm họng, ho (30ml)",
+        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00014541_propolis_tutti_frutti_honey_for_kids_30ml_3358_5f62_large_2d1c1d5394.jpg",
+        "originalPrice": "270.000đ",
+        "rewardPoint": "550",
+        "unit": 1
+      }
+    ]
+  },
   "home": {
     "purchased_products": [
       {
