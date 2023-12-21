@@ -1,245 +1,49 @@
 {
-  "users": {
-    "id": "1",
-    "phone": "0906123456"
-  },
-  "reward": {
-    "reward_point": "2500",
-    "reward_vouchers": [
-      {
-        "id": 1,
-        "title": "FRIENDSELL - PMH 15,000Đ",
-        "amount": "1500"
-      },
-      {
-        "id": 2,
-        "title": "FRIENDSELL - PMH 30,000Đ",
-        "amount": "3000"
-      },
-      {
-        "id": 3,
-        "title": "FRIENDSELL - PMH 45,000Đ",
-        "amount": "4500"
-      }
-    ],
-    "reward_products": [
-      {
-        "id": 1,
-        "name": "Viên uống Đông Trùng Hạ Thảo Pure Cordyceps Pharmekal tăng sức đề kháng (60 viên)",
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00345341_dong_trung_ha_thao_pure_cordyceps_8634_5c34_large_81ed7c754c.jpg",
-        "originalPrice": "550.000đ",
-        "rewardPoint": "1.200",
-        "unit": 1
-      },
-      {
-        "id": 2,
-        "name": "Siro Brauer Baby & Child Immune Defence Probiotic Liquid bổ sung lợi khuẩn cho bé (45ml)",
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/DSC_08363_4cc0bfe6e0.jpg",
-        "originalPrice": "550.000đ",
-        "rewardPoint": "1.200",
-        "unit": 1
-      },
-      {
-        "id": 3,
-        "name": "Viên uống Okinawa Fucoidan +++ Jpanwell hỗ trợ tăng cường sức để kháng và trung hòa các gốc tự do (30 viên)",
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00032884_okinawa_fucoidan_jpanwell_3x10_1585_62af_large_9aadf89229.jpg",
-        "originalPrice": "995.000đ",
-        "rewardPoint": "2.00",
-        "unit": 1
-      },
-      {
-        "id": 4,
-        "name": "Siro Kan Imunoglukan P4H Pleuran hỗ trợ tăng cường đề kháng ở trẻ em (120ml)",
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00030974_syrup_kan_120ml_6029_62ae_large_23ee7b1482.JPG",
-        "originalPrice": "325.000đ",
-        "rewardPoint": "900",
-        "unit": 1
-      },
-      {
-        "id": 5,
-        "name": "Viên sủi Redoxon Triple Action Bayer bổ sung vitamin C, D và kẽm (10 viên)",
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00032809_thuc_pham_bao_ve_suc_khoe_redoxon_triple_action_tuyp_10_vien_7149_6198_large_f7bf184919.jpg",
-        "originalPrice": "50.000đ",
-        "rewardPoint": "200",
-        "unit": 1
-      },
-      {
-        "id": 6,
-        "name": "Nhụy hoa nghệ tây Sasagold Saffron hỗ trợ làm đẹp và phù hợp cho người bệnh (1g)",
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00030869_sasagold_saffron_nhuy_hoa_nghe_tay_1g_9476_60a7_large_f7b33c4eec.JPG",
-        "originalPrice": "438.000đ",
-        "rewardPoint": "1.100",
-        "unit": 1
-      },
-      {
-        "id": 7,
-        "name": "Siro Brauer Baby & Kids Liquid Multivitamin For Infants hỗ trợ bổ sung một số vitamin (45ml)",
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00502560_brauer_baby_kids_liquid_multivitamin_for_infants_45ml_6406_635f_large_f537d8a225.jpg",
-        "originalPrice": "378.000đ",
-        "rewardPoint": "900",
-        "unit": 1
-      },
-      {
-        "id": 8,
-        "name": "Dung dịch xịt Propolis Tutti Frutti & Honey Tracybee giảm đau họng, viêm họng, ho (30ml)",
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00014541_propolis_tutti_frutti_honey_for_kids_30ml_3358_5f62_large_2d1c1d5394.jpg",
-        "originalPrice": "270.000đ",
-        "rewardPoint": "550",
-        "unit": 1
-      }
-    ]
-  },
-  "home": {
-    "purchased_products": [
-      {
-        "id": 1,
-        "name": "Viên uống Feroglobin B12 Vitabiotics bổ máu (30 viên)",
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/DSC_00481_7d75df71b4.jpg",
-        "purchaseDate": "1/10/2023",
-        "originalPrice": "327.000đ"
-      },
-      {
-        "id": 2,
-        "name": "Kem bôi Kutieskin (Xanh) hỗ trợ cho trẻ bị chàm sữa, dưỡng ẩm, tái tạo da (30g)",
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00029178_kutieskin_kem_boi_cho_tre_bi_cham_sua_30g_1724_62cf_large_45b46baa22.jpg",
-        "purchaseDate": "15/10/2023",
-        "originalPrice": "225.000đ"
-      },
-      {
-        "id": 3,
-        "name": "Dung dịch uống Hatro Vitamin D3+ DHA Pharvina bổ sung vitamin D3, DHA (20ml)",
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/IMG_0270_9483dadf83.jpg",
-        "purchaseDate": "6/11/2023",
-        "originalPrice": "320.000đ"
-      },
-      {
-        "id": 4,
-        "name": "Viên uống Happy Mom Jpanwell bổ sung Vitamin và khoáng chất (60 viên)",
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00021932_happy_mom_jpanwell_60v_5688_5ff7_large_8cba32414f.JPG",
-        "purchaseDate": "11/11/2023",
-        "originalPrice": "815.000đ"
-      },
-      {
-        "id": 5,
-        "name": "Nước Yến Sào Cao Cấp Nunest Relax hỗ trợ ngủ ngon, giảm căng thẳng mệt mỏi (6 hũ x 70ml)",
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/DSC_08842_314049c2d4.jpg",
-        "purchaseDate": "3/12/2023",
-        "originalPrice": "253.330đ"
-      }
-    ],
-    "top_products": [
-      {
-        "id": 1,
-        "name": "Viên uống Multivitamin + Zn + D3 Royal Care giúp tăng sức đề kháng",
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00500791_vien_uong_tang_de_khang_multivitamin_zn_d3_royal_care_60v_1169_62be_large_6f3a54bfa4.jpg",
-        "originalPrice": "175.000đ",
-        "discountPrice": "129.500đ",
-        "discount": 26,
-        "unit": 1
-      },
-      {
-        "id": 2,
-        "name": "Bột hòa tan Soki Miter hỗ trợ tăng cường tiêu hóa, giảm đầy bụng, khó tiêu, táo bón (20 gói)",
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00501624_soki_miter_20_goi_7086_62fb_large_b763f7ad9b.jpg",
-        "originalPrice": "345.000đ",
-        "discountPrice": "310.500đ",
-        "discount": 10,
-        "unit": 1
-      },
-      {
-        "id": 3,
-        "name": "Nhiệt kế hồng ngoại Microlife FR1MF1 hỗ trợ đo thân nhiệt, đo nhiệt độ bề mặt",
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00017249_nhiet_ke_hong_ngoai_do_tran_fr1mf1_7252_62b9_large_bbfff144f2.JPG",
-        "originalPrice": "990.000đ",
-        "discountPrice": "831.600đ",
-        "discount": 16,
-        "unit": 1
-      }
-    ],
-    "suggest_products": [
-      {
-        "id": 1,
-        "name": "Viên uống Omega 3-6-9 NatureCare bổ sung omega 3, 6, 9 cho cơ thể (60 viên)",
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00028684_vien_uong_omega_3_6_9_naturecare_giam_cholesterol_bao_ve_tim_mach_60_vien_9210_63a9_large_b5425cd082.jpg",
-        "originalPrice": "265.000đ",
-        "unit": 1
-      },
-      {
-        "id": 2,
-        "name": "Viên uống Pharma Word Calci K-2 bổ sung canxi, giảm nguy cơ loãng xương (60 viên)",
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00503275_vien_uong_bo_sung_canxi_giam_nguy_co_loang_xuong_pharma_word_calci_k_2_60v_2299_63ed_large_322e824179.jpg",
-        "originalPrice": "470.000đ",
-        "unit": 1
-      },
-      {
-        "id": 3,
-        "name": "Viên uống Natto Gold 3000 Fu Royal Care hỗ trợ tăng cường tuần hoàn não (60 viên)",
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00503276_vien_uong_ho_tro_tang_cuong_tuan_hoan_nao_natto_gold_3000fu_royal_care_60v_8247_63ed_large_1d74618cb5.jpg",
-        "originalPrice": "295.000đ",
-        "unit": 1
-      },
-      {
-        "id": 4,
-        "name": "Viên uống Nattokinase 2400FU Kenkan giúp tăng cường lưu thông máu (60 viên)",
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00032767_vien_uong_kenkan_nattokinase_2400fu_60v_5866_6193_large_c6c2382123.jpg",
-        "originalPrice": "515.000đ",
-        "unit": 1
-      },
-      {
-        "id": 5,
-        "name": "Viên uống B Complex Vitamin Royal Care giảm mệt mỏi, căng thẳng (60 viên)",
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00032942_b_complex_vitamin_royal_care_60v_5253_61c0_large_17e5e39343.jpg",
-        "originalPrice": "160.000đ",
-        "unit": 1
-      }
-    ],
-    "categories": [
-      {
-        "id": 1,
-        "name": "Đặc quyền"
-      },
-      {
-        "id": 2,
-        "name": "Tìm kiếm nhiều"
-      },
-      {
-        "id": 3,
-        "name": "Sản phẩm mới"
-      },
-      {
-        "id": 4,
-        "name": "Vitamin tổng hợp"
-      },
-      {
-        "id": 5,
-        "name": "Sữa cho cả nhà"
-      },
-      {
-        "id": 6,
-        "name": "Da sáng dáng sinh"
-      }
-    ],
-    "banners": [
-      {
-        "id": 1,
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/425x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/1610x492_web_PC_e8bd2bc87f.jpg"
-      },
-      {
-        "id": 2,
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/425x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/Banner_Web_PC_1610x492_ko_Logo_LC_08_08_0269115145.jpg"
-      },
-      {
-        "id": 3,
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/425x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/Partner_Anlene_Bannerweb_PC_1610x492_1_4e8e28afa6.jpg"
-      },
-      {
-        "id": 4,
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/425x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/D1_805x246_159b34db6b.png"
-      },
-      {
-        "id": 5,
-        "imageUrl": "https://cdn.nhathuoclongchau.com.vn/unsafe/425x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/Banner_Web_PC_1610x492_93ad5e2e07.png"
-      }
-    ]
-  }
-}
+"users":{"id":"1", "phone":"0906123456"},
+"reward":{
+"reward_point":"2500",
+"reward_vouchers":[
+{"id":1,"title":"FRIENDSELL - PMH 15,000Đ","amount":"1500"},
+{"id":2,"title":"FRIENDSELL - PMH 30,000Đ","amount":"3000"},
+{"id":3,"title":"FRIENDSELL - PMH 45,000Đ","amount":"4500"}
+],
+"reward_products":[
+{"id":1,"name":"Viên uống Đông Trùng Hạ Thảo Pure Cordyceps Pharmekal tăng sức đề kháng (60 viên)","imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00345341_dong_trung_ha_thao_pure_cordyceps_8634_5c34_large_81ed7c754c.jpg","originalPrice":"550.000đ","rewardPoint":"1.200","unit":1},
+{"id":2,"name":"Siro Brauer Baby & Child Immune Defence Probiotic Liquid bổ sung lợi khuẩn cho bé (45ml)","imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/DSC_08363_4cc0bfe6e0.jpg","originalPrice":"550.000đ","rewardPoint":"1.200","unit":1},
+{"id":3,"name":"Viên uống Okinawa Fucoidan +++ Jpanwell hỗ trợ tăng cường sức để kháng và trung hòa các gốc tự do (30 viên)","imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00032884_okinawa_fucoidan_jpanwell_3x10_1585_62af_large_9aadf89229.jpg","originalPrice":"995.000đ","rewardPoint":"2.00","unit":1},
+{"id":4,"name":"Siro Kan Imunoglukan P4H Pleuran hỗ trợ tăng cường đề kháng ở trẻ em (120ml)","imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00030974_syrup_kan_120ml_6029_62ae_large_23ee7b1482.JPG","originalPrice":"325.000đ","rewardPoint":"900","unit":1},
+{"id":5,"name":"Viên sủi Redoxon Triple Action Bayer bổ sung vitamin C, D và kẽm (10 viên)","imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00032809_thuc_pham_bao_ve_suc_khoe_redoxon_triple_action_tuyp_10_vien_7149_6198_large_f7bf184919.jpg","originalPrice":"50.000đ","rewardPoint":"200","unit":1},
+{"id":6,"name":"Nhụy hoa nghệ tây Sasagold Saffron hỗ trợ làm đẹp và phù hợp cho người bệnh (1g)","imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00030869_sasagold_saffron_nhuy_hoa_nghe_tay_1g_9476_60a7_large_f7b33c4eec.JPG","originalPrice":"438.000đ","rewardPoint":"1.100","unit":1},
+{"id":7,"name":"Siro Brauer Baby & Kids Liquid Multivitamin For Infants hỗ trợ bổ sung một số vitamin (45ml)","imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00502560_brauer_baby_kids_liquid_multivitamin_for_infants_45ml_6406_635f_large_f537d8a225.jpg","originalPrice":"378.000đ","rewardPoint":"900","unit":1},
+{"id":8,"name":"Dung dịch xịt Propolis Tutti Frutti & Honey Tracybee giảm đau họng, viêm họng, ho (30ml)","imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00014541_propolis_tutti_frutti_honey_for_kids_30ml_3358_5f62_large_2d1c1d5394.jpg","originalPrice":"270.000đ","rewardPoint":"550","unit":1}]},
+"home":{
+"purchased_products":[
+{"id":1,"name":"Viên uống Feroglobin B12 Vitabiotics bổ máu (30 viên)","imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/DSC_00481_7d75df71b4.jpg","purchaseDate":"1/10/2023","originalPrice":"327.000đ"},
+{"id":2,"name":"Kem bôi Kutieskin (Xanh) hỗ trợ cho trẻ bị chàm sữa, dưỡng ẩm, tái tạo da (30g)","imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00029178_kutieskin_kem_boi_cho_tre_bi_cham_sua_30g_1724_62cf_large_45b46baa22.jpg","purchaseDate":"15/10/2023","originalPrice":"225.000đ"},
+{"id":3,"name":"Dung dịch uống Hatro Vitamin D3+ DHA Pharvina bổ sung vitamin D3, DHA (20ml)","imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/IMG_0270_9483dadf83.jpg","purchaseDate":"6/11/2023","originalPrice":"320.000đ"},
+{"id":4,"name":"Viên uống Happy Mom Jpanwell bổ sung Vitamin và khoáng chất (60 viên)","imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00021932_happy_mom_jpanwell_60v_5688_5ff7_large_8cba32414f.JPG","purchaseDate":"11/11/2023","originalPrice":"815.000đ"},
+{"id":5,"name":"Nước Yến Sào Cao Cấp Nunest Relax hỗ trợ ngủ ngon, giảm căng thẳng mệt mỏi (6 hũ x 70ml)","imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/DSC_08842_314049c2d4.jpg","purchaseDate":"3/12/2023","originalPrice":"253.330đ"}],
+"top_products":[
+{"id":1,"name":"Viên uống Multivitamin + Zn + D3 Royal Care giúp tăng sức đề kháng","imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00500791_vien_uong_tang_de_khang_multivitamin_zn_d3_royal_care_60v_1169_62be_large_6f3a54bfa4.jpg","originalPrice":"175.000đ","discountPrice":"129.500đ","discount":26,"unit":1},
+{"id":2,"name":"Bột hòa tan Soki Miter hỗ trợ tăng cường tiêu hóa, giảm đầy bụng, khó tiêu, táo bón (20 gói)","imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00501624_soki_miter_20_goi_7086_62fb_large_b763f7ad9b.jpg","originalPrice":"345.000đ","discountPrice":"310.500đ","discount":10,"unit":1},
+{"id":3,"name":"Nhiệt kế hồng ngoại Microlife FR1MF1 hỗ trợ đo thân nhiệt, đo nhiệt độ bề mặt","imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00017249_nhiet_ke_hong_ngoai_do_tran_fr1mf1_7252_62b9_large_bbfff144f2.JPG","originalPrice":"990.000đ","discountPrice":"831.600đ","discount":16,"unit":1}],
+"suggest_products":[
+{"id":1,"name":"Viên uống Omega 3-6-9 NatureCare bổ sung omega 3, 6, 9 cho cơ thể (60 viên)","imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00028684_vien_uong_omega_3_6_9_naturecare_giam_cholesterol_bao_ve_tim_mach_60_vien_9210_63a9_large_b5425cd082.jpg","originalPrice":"265.000đ","unit":1},
+{"id":2,"name":"Viên uống Pharma Word Calci K-2 bổ sung canxi, giảm nguy cơ loãng xương (60 viên)","imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00503275_vien_uong_bo_sung_canxi_giam_nguy_co_loang_xuong_pharma_word_calci_k_2_60v_2299_63ed_large_322e824179.jpg","originalPrice":"470.000đ","unit":1},
+{"id":3,"name":"Viên uống Natto Gold 3000 Fu Royal Care hỗ trợ tăng cường tuần hoàn não (60 viên)","imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00503276_vien_uong_ho_tro_tang_cuong_tuan_hoan_nao_natto_gold_3000fu_royal_care_60v_8247_63ed_large_1d74618cb5.jpg","originalPrice":"295.000đ","unit":1},
+{"id":4,"name":"Viên uống Nattokinase 2400FU Kenkan giúp tăng cường lưu thông máu (60 viên)","imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00032767_vien_uong_kenkan_nattokinase_2400fu_60v_5866_6193_large_c6c2382123.jpg","originalPrice":"515.000đ","unit":1},
+{"id":5,"name":"Viên uống B Complex Vitamin Royal Care giảm mệt mỏi, căng thẳng (60 viên)","imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/373x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00032942_b_complex_vitamin_royal_care_60v_5253_61c0_large_17e5e39343.jpg","originalPrice":"160.000đ","unit":1}],
+"categories":[
+{"id":1,"name":"Đặc quyền"},
+{"id":2,"name":"Tìm kiếm nhiều"},
+{"id":3,"name":"Sản phẩm mới"},
+{"id":4,"name":"Vitamin tổng hợp"},
+{"id":5,"name":"Sữa cho cả nhà"},
+{"id":6,"name":"Da sáng dáng sinh"}],
+"banners":[
+{"id":1,"imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/425x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/1610x492_web_PC_e8bd2bc87f.jpg"},
+{"id":2,"imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/425x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/Banner_Web_PC_1610x492_ko_Logo_LC_08_08_0269115145.jpg"},
+{"id":3,"imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/425x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/Partner_Anlene_Bannerweb_PC_1610x492_1_4e8e28afa6.jpg"},
+{"id":4,"imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/425x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/D1_805x246_159b34db6b.png"},
+{"id":5,"imageUrl":"https://cdn.nhathuoclongchau.com.vn/unsafe/425x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/Banner_Web_PC_1610x492_93ad5e2e07.png"}
+]}}
